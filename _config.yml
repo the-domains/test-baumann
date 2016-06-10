@@ -1,0 +1,14 @@
+layout_spectrum: 0.7122821963857859
+typography_spectrum: 0.5184065711218864
+color:
+  brandStrength: 0.9858192950487137
+  lightness: 0.28477117815054953
+  saturation: 0.48538427450694144
+  rhythmicContrast: 0.5172438647132367
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Test Baumann
