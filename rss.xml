@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test Baumann]]></title>
+        <description><![CDATA[Test Baumann]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 10 Jun 2016 19:15:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mexico "Live it to believe it"]]></title>
+            <description><![CDATA[<article><h1>Mexico "Live it to believe it"</h1><p>Mexico "Live it to believe it" 2014 Video SECTUR Compromiso por el Turismo de México 2014 Mexico Visita del papa francisco oficial Basilcia de Guadalupe papa visita virgen de Guadalupe México se Pinta de Luz / Varios (Video Oficial) The Mystery and origin of the Maya Culture Discover the awe-inspiring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0ded6c290ba9d779c90b936917166fce9fec8c4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=tgFao8RYeQ8</link>
+            <guid isPermaLink="false">5264e95f-80a9-43ed-bd78-4d8554f1c070</guid>
+            <pubDate>Fri, 10 Jun 2016 19:15:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
